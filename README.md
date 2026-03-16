@@ -50,6 +50,7 @@ Customers can WhatsApp the Nthoppa number and instantly get answers about:
 Nthoppa-Chatbot/
 ├── nthoppa-twilio-bot.js   ← Complete bot (single file)
 ├── package.json            ← Dependencies & start script
+├── package-lock.json       ← Auto-generated, do not edit manually
 └── README.md               ← You are here
 ```
 
@@ -211,8 +212,6 @@ Then send any message to start chatting.
 - [ ] Connect knowledge base to a live database for easy content updates
 - [ ] Add conversation memory for multi-turn context
 - [ ] AI-powered natural language understanding
-
-
 
 ---
 
