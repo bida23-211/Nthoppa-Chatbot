@@ -59,7 +59,7 @@ Nthoppa-Chatbot/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/Nthoppa-Chatbot.git
+git clone https://github.com/bida23-211/Nthoppa-Chatbot.git
 cd Nthoppa-Chatbot
 ```
 
